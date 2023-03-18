@@ -79,10 +79,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;[v1.1.27+]:&lt;/s0&gt; The letters a-z or A-Z can be used to refer to the corresponding virtual keycodes (usually vk41-vk5A) even if they are not included in the current keyboard layout.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015918Z" creationid="ayaki" creationdate="20230318T015918Z">
+        <seg>&lt;s0&gt;[v1.1.27+]:&lt;/s0&gt; 現在のキーボード レイアウトに含まれていない場合でも、a ～ z または A ～ Z の文字を使用して、対応する仮想キーコード (通常は vk41 ～ vk5A) を参照できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additionally, some special characters may need to be escaped or enclosed in braces, depending on the context.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015905Z" creationid="ayaki" creationdate="20230318T015905Z">
+        <seg>さらに、コンテキストによっては、一部の特殊文字をエスケープするか、中括弧で囲む必要がある場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Advanced Buttons</seg>
       </tuv>
       <tuv lang="ja" changeid="ayaki" changedate="20230318T015426Z" creationid="ayaki" creationdate="20230318T015426Z">
         <seg>高度なボタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although any single character can be used as a key name, its meaning (scan code or virtual keycode) depends on the current keyboard layout.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015903Z" creationid="ayaki" creationdate="20230318T015903Z">
+        <seg>任意の 1 文字をキー名として使用できますが、その意味 (スキャン コードまたは仮想キーコード) は現在のキーボード レイアウトによって異なります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -131,6 +155,14 @@
       </tuv>
       <tuv lang="ja" changeid="ayaki" changedate="20230318T015558Z" creationid="ayaki" creationdate="20230318T015558Z">
         <seg>説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015852Z" creationid="ayaki" creationdate="20230318T015815Z">
+        <seg>事例：</seg>
       </tuv>
     </tu>
     <tu>
@@ -351,6 +383,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The names of the letter and number keys are the same as that single letter or digit.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015857Z" creationid="ayaki" creationdate="20230318T015857Z">
+        <seg>文字キーと数字キーの名前は、その単一の文字または数字と同じです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The right mouse button when used with Send, but the secondary mouse button when used with hotkeys.</seg>
       </tuv>
       <tuv lang="ja" changeid="ayaki" changedate="20230318T015620Z" creationid="ayaki" creationdate="20230318T015620Z">
@@ -491,6 +531,14 @@
       </tuv>
       <tuv lang="ja" changeid="Ragnar-F" changedate="20230306T140811Z" creationid="Ragnar-F" creationdate="20230306T140811Z">
         <seg>]],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>b is &lt;k1&gt;B&lt;/k1&gt; and 5 is &lt;k2&gt;5&lt;/k2&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015835Z" creationid="ayaki" creationdate="20230318T015835Z">
+        <seg>b は &lt;k1&gt;B&lt;/k1&gt; で、5 は &lt;k2&gt;5&lt;/k2&gt;です。</seg>
       </tuv>
     </tu>
     <tu>
