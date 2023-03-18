@@ -55,6 +55,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Advanced Buttons</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015426Z" creationid="ayaki" creationdate="20230318T015426Z">
+        <seg>高度なボタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>AutoHotkey Help</seg>
       </tuv>
       <tuv lang="ja" changeid="Ragnar-F" changedate="20230306T134342Z" creationid="Ragnar-F" creationdate="20230306T134342Z">
@@ -115,6 +123,14 @@
       </tuv>
       <tuv lang="ja" changeid="ayaki" changedate="20230315T155510Z" creationid="ayaki" creationdate="20230315T155510Z">
         <seg>このページには、ホットキーおよびキー固有のコマンド/機能に使用できるすべてのマウス ボタン、キーボード キー、およびジョイスティック ボタンがリストされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wheel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015432Z" creationid="ayaki" creationdate="20230318T015432Z">
+        <seg>車輪</seg>
       </tuv>
     </tu>
     <tu>
