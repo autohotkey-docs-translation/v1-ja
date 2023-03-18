@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -79,10 +79,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>List of Keys &lt;s0&gt;(Keyboard, Mouse and Joystick)&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230315T155542Z" creationid="ayaki" creationdate="20230315T155542Z">
+        <seg>キーのリスト &lt;s0&gt;(キーボード、マウス、ジョイスティック)&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>NUL</seg>
       </tuv>
       <tuv lang="ja" changeid="Ragnar-F" changedate="20230306T140457Z" creationid="Ragnar-F" creationdate="20230306T140457Z">
         <seg>NUL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This page lists all mouse buttons, keyboard keys and joystick buttons which can be used for hotkeys and key-specific commands/functions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230315T155510Z" creationid="ayaki" creationdate="20230315T155510Z">
+        <seg>このページには、ホットキーおよびキー固有のコマンド/機能に使用できるすべてのマウス ボタン、キーボード キー、およびジョイスティック ボタンがリストされています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -259,6 +275,14 @@
       </tuv>
       <tuv lang="ja" changeid="Ragnar-F" changedate="20230306T140903Z" creationid="Ragnar-F" creationdate="20230306T140903Z">
         <seg>indexData = [</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>keyboard,keys,key,mouse,buttons,button,joystick,create,hotkeys,hotkey,macros</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230315T155529Z" creationid="ayaki" creationdate="20230315T155529Z">
+        <seg>キーボード,キー,キー,マウス,ボタン,ボタン,ジョイスティック,作成,ホットキー,ホットキー,マクロ</seg>
       </tuv>
     </tu>
     <tu>
