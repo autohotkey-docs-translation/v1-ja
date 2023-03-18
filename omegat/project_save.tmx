@@ -55,6 +55,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>4th mouse button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015644Z" creationid="ayaki" creationdate="20230318T015644Z">
+        <seg>マウスの 4 番目のボタン。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>5th mouse button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015651Z" creationid="ayaki" creationdate="20230318T015651Z">
+        <seg>マウスの 5 番目のボタン。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;[v1.0.48+]:&lt;/s0&gt; Scroll to the left or right.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015709Z" creationid="ayaki" creationdate="20230318T015709Z">
+        <seg>&lt;s0&gt;[v1.0.48+]:&lt;/s0&gt; 左または右にスクロールします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Advanced Buttons</seg>
       </tuv>
       <tuv lang="ja" changeid="ayaki" changedate="20230318T015426Z" creationid="ayaki" creationdate="20230318T015426Z">
@@ -79,10 +103,122 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CapsLock and IME</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015533Z" creationid="ayaki" creationdate="20230318T015533Z">
+        <seg>CapsLock と IME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cursor Control Keys</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015442Z" creationid="ayaki" creationdate="20230318T015442Z">
+        <seg>カーソル制御キー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Descr</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015556Z" creationid="ayaki" creationdate="20230318T015556Z">
+        <seg>説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015558Z" creationid="ayaki" creationdate="20230318T015558Z">
+        <seg>説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Function Keys</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015448Z" creationid="ayaki" creationdate="20230318T015448Z">
+        <seg>ファンクションキー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>General Buttons</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015553Z" creationid="ayaki" creationdate="20230318T015553Z">
+        <seg>一般的なボタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>General Keys</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015439Z" creationid="ayaki" creationdate="20230318T015439Z">
+        <seg>一般的なキー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hand-held Remote Controls</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015527Z" creationid="ayaki" creationdate="20230318T015527Z">
+        <seg>ハンドヘルドリモコン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In other words, if the user has swapped the buttons via system settings, &lt;c0&gt;LButton::&lt;/c0&gt; is physically activated by clicking the &lt;s1&gt;right&lt;/s1&gt; mouse button, but &lt;c2&gt;Send {LButton}&lt;/c2&gt; performs the same as physically clicking the &lt;s3&gt;left&lt;/s3&gt; button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015613Z" creationid="ayaki" creationdate="20230318T015613Z">
+        <seg>つまり、ユーザーがシステム設定でボタンを交換した場合、&lt;c0&gt;LButton::&lt;/c0&gt; はマウスの &lt;s1&gt;右&lt;/s1&gt; ボタンをクリックすることで物理的にアクティブになりますが、&lt;c2&gt;{LButton} を送信します。 &lt;/c2&gt; は、&lt;s3&gt;左&lt;/s3&gt; ボタンを物理的にクリックするのと同じことを行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In other words, if the user has swapped the buttons via system settings, &lt;c0&gt;RButton::&lt;/c0&gt; is physically activated by clicking the &lt;s1&gt;left&lt;/s1&gt; mouse button, but &lt;c2&gt;Send {RButton}&lt;/c2&gt; performs the same as physically clicking the &lt;s3&gt;right&lt;/s3&gt; button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015626Z" creationid="ayaki" creationdate="20230318T015626Z">
+        <seg>つまり、ユーザーがシステム設定でボタンを交換した場合、&lt;c0&gt;RButton::&lt;/c0&gt; はマウスの &lt;s1&gt;左&lt;/s1&gt; ボタンをクリックすることで物理的にアクティブになりますが、&lt;c2&gt;{RButton} を送信します。 &lt;/c2&gt; は、&lt;s3&gt;右&lt;/s3&gt; ボタンを物理的にクリックするのと同じことを行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In some cases, software bundled with the mouse must instead be used to control this feature.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015719Z" creationid="ayaki" creationdate="20230318T015719Z">
+        <seg>場合によっては、マウスにバンドルされているソフトウェアを使用して、この機能を制御する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Index.hhk</seg>
       </tuv>
       <tuv lang="ja" changeid="Ragnar-F" changedate="20230306T134234Z" creationid="Ragnar-F" creationdate="20230306T134234Z">
         <seg>Index.hhk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Joystick</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015525Z" creationid="ayaki" creationdate="20230318T015525Z">
+        <seg>ジョイスティック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keyboard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015503Z" creationid="ayaki" creationdate="20230318T015503Z">
+        <seg>キーボード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LButton</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015601Z" creationid="ayaki" creationdate="20230318T015601Z">
+        <seg>Lボタン</seg>
       </tuv>
     </tu>
     <tu>
@@ -95,10 +231,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MButton</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015629Z" creationid="ayaki" creationdate="20230318T015629Z">
+        <seg>M ボタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Middle or wheel mouse button</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015631Z" creationid="ayaki" creationdate="20230318T015631Z">
+        <seg>中ボタンまたはホイール マウス ボタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modifier Keys</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015509Z" creationid="ayaki" creationdate="20230318T015509Z">
+        <seg>修飾キー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mouse</seg>
       </tuv>
       <tuv lang="ja" changeid="ayaki" changedate="20230318T005322Z" creationid="ayaki" creationdate="20230318T005322Z">
         <seg>マウス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Multimedia Keys</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015512Z" creationid="ayaki" creationdate="20230318T015512Z">
+        <seg>マルチメディア キー</seg>
       </tuv>
     </tu>
     <tu>
@@ -111,10 +279,90 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015554Z" creationid="ayaki" creationdate="20230318T015554Z">
+        <seg>名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Numpad Keys</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015445Z" creationid="ayaki" creationdate="20230318T015445Z">
+        <seg>テンキー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other Keys</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015515Z" creationid="ayaki" creationdate="20230318T015515Z">
+        <seg>その他のキー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RButton</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015618Z" creationid="ayaki" creationdate="20230318T015618Z">
+        <seg>Rボタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regardless of the particular mouse, &lt;a1&gt;Send&lt;/a1&gt; and &lt;a2&gt;Click&lt;/a2&gt; can be used to scroll horizontally in programs which support it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015722Z" creationid="ayaki" creationdate="20230318T015722Z">
+        <seg>特定のマウスに関係なく、&lt;a1&gt;Send&lt;/a1&gt; と &lt;a2&gt;Click&lt;/a2&gt; を使用して、それをサポートするプログラムで水平方向にスクロールできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Requires Windows Vista or later.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015713Z" creationid="ayaki" creationdate="20230318T015713Z">
+        <seg>Windows Vista 以降が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Special Keys</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015529Z" creationid="ayaki" creationdate="20230318T015529Z">
+        <seg>特殊キー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Table of Contents</seg>
       </tuv>
       <tuv lang="ja" changeid="ayaki" changedate="20230318T005302Z" creationid="ayaki" creationdate="20230318T005302Z">
         <seg>目次</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The left mouse button when used with Send, but the primary mouse button when used with hotkeys.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015609Z" creationid="ayaki" creationdate="20230318T015609Z">
+        <seg>送信で使用する場合はマウスの左ボタンですが、ホットキーで使用する場合はマウスの主ボタンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The right mouse button when used with Send, but the secondary mouse button when used with hotkeys.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015620Z" creationid="ayaki" creationdate="20230318T015620Z">
+        <seg>送信で使用する場合はマウスの右ボタンですが、ホットキーで使用する場合はマウスの副ボタンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These can be &lt;a0&gt;used as hotkeys&lt;/a0&gt; with some (but not all) mice which have a second wheel or support tilting the wheel to either side.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015717Z" creationid="ayaki" creationdate="20230318T015717Z">
+        <seg>これらは &lt;a0&gt;ホットキーとして使用&lt;/a0&gt;できます (すべてではない) 一部のマウスには、2 番目のホイールまたはホイールを左右に傾けることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -127,10 +375,90 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To always perform a logical left click, use &lt;c4&gt;Click Left&lt;/c4&gt; or &lt;c5&gt;Send {Click Left}&lt;/c5&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015614Z" creationid="ayaki" creationdate="20230318T015614Z">
+        <seg>常に論理的な左クリックを実行するには、&lt;c4&gt;Click Left&lt;/c4&gt; または &lt;c5&gt;Send {Click Left}&lt;/c5&gt;を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To always perform a logical right click, use &lt;c4&gt;Click Right&lt;/c4&gt; or &lt;c5&gt;Send {Click Right}&lt;/c5&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015628Z" creationid="ayaki" creationdate="20230318T015628Z">
+        <seg>常に論理的な右クリックを実行するには、&lt;c4&gt;Click Right&lt;/c4&gt; または &lt;c5&gt;Send {Click Right}&lt;/c5&gt;を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Turn the wheel downward (toward you).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015701Z" creationid="ayaki" creationdate="20230318T015701Z">
+        <seg>ハンドルを下（手前）に回します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Turn the wheel upward (away from you).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015704Z" creationid="ayaki" creationdate="20230318T015704Z">
+        <seg>ハンドルを上に (自分から離れる方向に) 回します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Typically performs the same function as Browser_Back.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015645Z" creationid="ayaki" creationdate="20230318T015645Z">
+        <seg>通常、Browser_Back と同じ機能を実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Typically performs the same function as Browser_Forward.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015653Z" creationid="ayaki" creationdate="20230318T015653Z">
+        <seg>通常、Browser_Forward と同じ機能を実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wheel</seg>
       </tuv>
       <tuv lang="ja" changeid="ayaki" changedate="20230318T015432Z" creationid="ayaki" creationdate="20230318T015432Z">
         <seg>車輪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>WheelDown</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015659Z" creationid="ayaki" creationdate="20230318T015659Z">
+        <seg>ホイールダウン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>WheelLeft</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015706Z" creationid="ayaki" creationdate="20230318T015706Z">
+        <seg>ホイール左</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>WheelRight</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015707Z" creationid="ayaki" creationdate="20230318T015707Z">
+        <seg>ホイール右</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>WheelUp</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T015702Z" creationid="ayaki" creationdate="20230318T015702Z">
+        <seg>ホイールアップ</seg>
       </tuv>
     </tu>
     <tu>
