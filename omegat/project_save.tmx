@@ -71,6 +71,78 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;PgDn&lt;/k0&gt; (page down key)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T020820Z" creationid="ayaki" creationdate="20230318T020820Z">
+        <seg>&lt;k0&gt;PgDn&lt;/k0&gt; (ページダウンキー)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;PgUp&lt;/k0&gt; (page up key)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T020816Z" creationid="ayaki" creationdate="20230318T020816Z">
+        <seg>&lt;k0&gt;PgUp&lt;/k0&gt; (ページアップ キー)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;ScrollLock&lt;/k0&gt; (scroll lock key).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T020727Z" creationid="ayaki" creationdate="20230318T020727Z">
+        <seg>&lt;k0&gt;ScrollLock&lt;/k0&gt; (スクロール ロック キー)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;Space&lt;/k0&gt; (space bar)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T020642Z" creationid="ayaki" creationdate="20230318T020642Z">
+        <seg>&lt;k0&gt;スペース&lt;/k0&gt; (スペースバー)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;Tab&lt;/k0&gt; (tabulator key)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T020649Z" creationid="ayaki" creationdate="20230318T020649Z">
+        <seg>&lt;k0&gt;Tab&lt;/k0&gt; (タブキー)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;↑&lt;/k0&gt; (up arrow key)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T020827Z" creationid="ayaki" creationdate="20230318T020827Z">
+        <seg>&lt;k0&gt;↑&lt;/k0&gt; (上矢印キー)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;↓&lt;/k0&gt; (down arrow key)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T020842Z" creationid="ayaki" creationdate="20230318T020842Z">
+        <seg>&lt;k0&gt;↓&lt;/k0&gt; (下矢印キー)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Deprecated:&lt;/s0&gt; Use the synonym &lt;c1&gt;Enter&lt;/c1&gt; instead to reduce ambiguity.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T020710Z" creationid="ayaki" creationdate="20230318T020710Z">
+        <seg>&lt;s0&gt;非推奨:&lt;/s0&gt; あいまいさを減らすために、代わりに同義語の &lt;c1&gt;Enter&lt;/c1&gt; を使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Note:&lt;/s0&gt; Windows IME may interfere with the detection and functionality of CapsLock; see &lt;a1&gt;CapsLock and IME&lt;/a1&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T020606Z" creationid="ayaki" creationdate="20230318T020606Z">
+        <seg>&lt;s0&gt;注:&lt;/s0&gt; Windows IME は、CapsLock の検出と機能に干渉する場合があります。詳細については、&lt;a1&gt;CapsLock と IME&lt;/a1&gt; を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;[v1.0.48+]:&lt;/s0&gt; Scroll to the left or right.</seg>
       </tuv>
       <tuv lang="ja" changeid="ayaki" changedate="20230318T015709Z" creationid="ayaki" creationdate="20230318T015709Z">
@@ -127,6 +199,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Backspace</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T020721Z" creationid="ayaki" creationdate="20230318T020721Z">
+        <seg>バックスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Backspace (or BS)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T020717Z" creationid="ayaki" creationdate="20230318T020717Z">
+        <seg>バックスペース (または BS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CapsLock and IME</seg>
       </tuv>
       <tuv lang="ja" changeid="ayaki" changedate="20230318T015533Z" creationid="ayaki" creationdate="20230318T015533Z">
@@ -143,6 +231,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Del</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T020739Z" creationid="ayaki" creationdate="20230318T020739Z">
+        <seg>削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete (or Del)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T020732Z" creationid="ayaki" creationdate="20230318T020732Z">
+        <seg>削除 (または削除)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Descr</seg>
       </tuv>
       <tuv lang="ja" changeid="ayaki" changedate="20230318T015556Z" creationid="ayaki" creationdate="20230318T015556Z">
@@ -155,6 +259,38 @@
       </tuv>
       <tuv lang="ja" changeid="ayaki" changedate="20230318T015558Z" creationid="ayaki" creationdate="20230318T015558Z">
         <seg>説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>End</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T020805Z" creationid="ayaki" creationdate="20230318T020805Z">
+        <seg>エンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T020700Z" creationid="ayaki" creationdate="20230318T020657Z">
+        <seg>入力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Esc</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T020715Z" creationid="ayaki" creationdate="20230318T020715Z">
+        <seg>ESC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Escape (or Esc)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T020712Z" creationid="ayaki" creationdate="20230318T020712Z">
+        <seg>エスケープ (または Esc)</seg>
       </tuv>
     </tu>
     <tu>
@@ -199,6 +335,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Home</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T020756Z" creationid="ayaki" creationdate="20230318T020756Z">
+        <seg>ホーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In other words, if the user has swapped the buttons via system settings, &lt;c0&gt;LButton::&lt;/c0&gt; is physically activated by clicking the &lt;s1&gt;right&lt;/s1&gt; mouse button, but &lt;c2&gt;Send {LButton}&lt;/c2&gt; performs the same as physically clicking the &lt;s3&gt;left&lt;/s3&gt; button.</seg>
       </tuv>
       <tuv lang="ja" changeid="ayaki" changedate="20230318T015613Z" creationid="ayaki" creationdate="20230318T015613Z">
@@ -227,6 +371,22 @@
       </tuv>
       <tuv lang="ja" changeid="Ragnar-F" changedate="20230306T134234Z" creationid="Ragnar-F" creationdate="20230306T134234Z">
         <seg>Index.hhk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ins</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T020749Z" creationid="ayaki" creationdate="20230318T020749Z">
+        <seg>挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert (or Ins)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T020742Z" creationid="ayaki" creationdate="20230318T020742Z">
+        <seg>挿入 (または挿入)</seg>
       </tuv>
     </tu>
     <tu>
@@ -335,6 +495,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PgUp</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T020813Z" creationid="ayaki" creationdate="20230318T020813Z">
+        <seg>ページアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>RButton</seg>
       </tuv>
       <tuv lang="ja" changeid="ayaki" changedate="20230318T015618Z" creationid="ayaki" creationdate="20230318T015618Z">
@@ -359,10 +527,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Return</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T020708Z" creationid="ayaki" creationdate="20230318T020708Z">
+        <seg>リターン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T020620Z" creationid="ayaki" creationdate="20230318T020620Z">
+        <seg>スペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Special Keys</seg>
       </tuv>
       <tuv lang="ja" changeid="ayaki" changedate="20230318T015529Z" creationid="ayaki" creationdate="20230318T015529Z">
         <seg>特殊キー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tab</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T020647Z" creationid="ayaki" creationdate="20230318T020647Z">
+        <seg>タブ</seg>
       </tuv>
     </tu>
     <tu>
@@ -499,6 +691,14 @@
       </tuv>
       <tuv lang="ja" changeid="ayaki" changedate="20230318T015702Z" creationid="ayaki" creationdate="20230318T015702Z">
         <seg>ホイールアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While &lt;k1&gt;Ctrl&lt;/k1&gt; is held down, &lt;k2&gt;ScrollLock&lt;/k2&gt; produces the key code of &lt;c3&gt;CtrlBreak&lt;/c3&gt;, but can be differentiated from &lt;k4&gt;Pause&lt;/k4&gt; by scan code.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T020730Z" creationid="ayaki" creationdate="20230318T020730Z">
+        <seg>&lt;k1​​&gt;Ctrl&lt;/k1&gt; が押されている間、&lt;k2&gt;ScrollLock&lt;/k2&gt; は &lt;c3&gt;CtrlBreak&lt;/c3&gt;のキー コードを生成しますが、スキャンによって &lt;k4&gt;Pause&lt;/k4&gt; と区別することができますコード。</seg>
       </tuv>
     </tu>
     <tu>
