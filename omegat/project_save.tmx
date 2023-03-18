@@ -71,6 +71,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;NumLock&lt;/k0&gt; (number lock key).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T021413Z" creationid="ayaki" creationdate="20230318T021413Z">
+        <seg>&lt;k0&gt;NumLock&lt;/k0&gt; (ナンバーロックキー)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;PgDn&lt;/k0&gt; (page down key)</seg>
       </tuv>
       <tuv lang="ja" changeid="ayaki" changedate="20230318T020820Z" creationid="ayaki" creationdate="20230318T020820Z">
@@ -183,6 +191,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As a hotkey (&lt;c1&gt;Alt::&lt;/c1&gt;) it fires upon release unless it has the tilde prefix.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T021532Z" creationid="ayaki" creationdate="20230318T021532Z">
+        <seg>ホットキー (&lt;c1&gt;Alt::&lt;/c1&gt;) として、チルダ プレフィックスがない限り、リリース時に起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As a hotkey (&lt;c1&gt;Control::&lt;/c1&gt;) it fires upon release unless it has the tilde prefix.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T021508Z" creationid="ayaki" creationdate="20230318T021508Z">
+        <seg>ホットキー (&lt;c1&gt;Control::&lt;/c1&gt;) として、チルダ プレフィックスがない限り、リリース時に起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>AutoHotkey Help</seg>
       </tuv>
       <tuv lang="ja" changeid="Ragnar-F" changedate="20230306T134342Z" creationid="Ragnar-F" creationdate="20230306T134342Z">
@@ -219,6 +243,30 @@
       </tuv>
       <tuv lang="ja" changeid="ayaki" changedate="20230318T015533Z" creationid="ayaki" creationdate="20230318T015533Z">
         <seg>CapsLock と IME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Corresponds to the &lt;c1&gt;&lt;#&lt;/c1&gt; hotkey prefix.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T021430Z" creationid="ayaki" creationdate="20230318T021430Z">
+        <seg>&lt;c1&gt;&lt;#&lt;/c1&gt; ホットキー プレフィックスに対応します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Corresponds to the &lt;c1&gt;&gt;#&lt;/c1&gt; hotkey prefix.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T021452Z" creationid="ayaki" creationdate="20230318T021452Z">
+        <seg>&lt;c1&gt;&gt;#&lt;/c1&gt; ホットキー プレフィックスに対応します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Corresponds to the &lt;c2&gt;^&lt;/c2&gt; hotkey prefix.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T021510Z" creationid="ayaki" creationdate="20230318T021510Z">
+        <seg>&lt;c2&gt;^&lt;/c2&gt; ホットキー プレフィックスに対応します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -339,6 +387,14 @@
       </tuv>
       <tuv lang="ja" changeid="ayaki" changedate="20230318T020756Z" creationid="ayaki" creationdate="20230318T020756Z">
         <seg>ホーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, hotkeys with the &lt;c4&gt;#&lt;/c4&gt; modifier can be triggered by either &lt;k5&gt;Win&lt;/k5&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T021459Z" creationid="ayaki" creationdate="20230318T021459Z">
+        <seg>ただし、&lt;c4&gt;#&lt;/c4&gt; 修飾子を含むホットキーは、&lt;k5&gt;Win&lt;/k5&gt;のいずれかでトリガーできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -655,6 +711,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unlike &lt;k1&gt;Ctrl&lt;/k1&gt;/&lt;k2&gt;Alt&lt;/k2&gt;/&lt;k3&gt;Shift&lt;/k3&gt;, there is no generic/neutral "Win" key because the OS does not support it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T021457Z" creationid="ayaki" creationdate="20230318T021457Z">
+        <seg>&lt;k1​​&gt;Ctrl&lt;/k1&gt;/&lt;k2&gt;Alt&lt;/k2&gt;/&lt;k3&gt;Shift&lt;/k3&gt;とは異なり、OS がサポートしていないため、汎用/中立の「Win」キーはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wheel</seg>
       </tuv>
       <tuv lang="ja" changeid="ayaki" changedate="20230318T015432Z" creationid="ayaki" creationdate="20230318T015432Z">
@@ -691,6 +755,14 @@
       </tuv>
       <tuv lang="ja" changeid="ayaki" changedate="20230318T015702Z" creationid="ayaki" creationdate="20230318T015702Z">
         <seg>ホイールアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While &lt;k1&gt;Ctrl&lt;/k1&gt; is held down, &lt;k2&gt;NumLock&lt;/k2&gt; produces the key code of &lt;c3&gt;Pause&lt;/c3&gt;, so use &lt;c4&gt;^Pause&lt;/c4&gt; in hotkeys instead of &lt;c5&gt;^NumLock&lt;/c5&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T021415Z" creationid="ayaki" creationdate="20230318T021415Z">
+        <seg>&lt;k1​​&gt;Ctrl&lt;/k1&gt; が押されている間、&lt;k2&gt;NumLock&lt;/k2&gt; は &lt;c3&gt;Pause&lt;/c3&gt;のキー コードを生成するため、代わりにホットキーで &lt;c4&gt;^Pause&lt;/c4&gt; を使用します。 &lt;c5&gt;^NumLock&lt;/c5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
