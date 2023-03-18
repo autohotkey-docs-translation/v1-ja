@@ -87,10 +87,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mouse</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T005322Z" creationid="ayaki" creationdate="20230318T005322Z">
+        <seg>マウス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>NUL</seg>
       </tuv>
       <tuv lang="ja" changeid="Ragnar-F" changedate="20230306T140457Z" creationid="Ragnar-F" creationdate="20230306T140457Z">
         <seg>NUL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table of Contents</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ayaki" changedate="20230318T005302Z" creationid="ayaki" creationdate="20230318T005302Z">
+        <seg>目次</seg>
       </tuv>
     </tu>
     <tu>
