@@ -65,8 +65,8 @@
       <tuv lang="en">
         <seg>5th mouse button.</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T015651Z" creationid="ayaki" creationdate="20230318T015651Z">
-        <seg>マウスの 5 番目のボタン。</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T112325Z" creationid="ayaki" creationdate="20230318T015651Z">
+        <seg>マウスの第5ボタン</seg>
       </tuv>
     </tu>
     <tu>
@@ -81,56 +81,56 @@
       <tuv lang="en">
         <seg>&lt;k0&gt;PgDn&lt;/k0&gt; (page down key)</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T020820Z" creationid="ayaki" creationdate="20230318T020820Z">
-        <seg>&lt;k0&gt;PgDn&lt;/k0&gt; (ページダウンキー)</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T112413Z" creationid="ayaki" creationdate="20230318T020820Z">
+        <seg>&lt;k0&gt;PgDn&lt;/k0&gt;（ページダウンキー）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;k0&gt;PgUp&lt;/k0&gt; (page up key)</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T020816Z" creationid="ayaki" creationdate="20230318T020816Z">
-        <seg>&lt;k0&gt;PgUp&lt;/k0&gt; (ページアップ キー)</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T112445Z" creationid="ayaki" creationdate="20230318T020816Z">
+        <seg>&lt;k0&gt;PgUp&lt;/k0&gt;（ページアップキー）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;k0&gt;ScrollLock&lt;/k0&gt; (scroll lock key).</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T020727Z" creationid="ayaki" creationdate="20230318T020727Z">
-        <seg>&lt;k0&gt;ScrollLock&lt;/k0&gt; (スクロール ロック キー)。</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T112510Z" creationid="ayaki" creationdate="20230318T020727Z">
+        <seg>&lt;k0&gt;ScrollLock&lt;/k0&gt;（スクロールロックキー）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;k0&gt;Space&lt;/k0&gt; (space bar)</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T020642Z" creationid="ayaki" creationdate="20230318T020642Z">
-        <seg>&lt;k0&gt;スペース&lt;/k0&gt; (スペースバー)</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T112547Z" creationid="ayaki" creationdate="20230318T020642Z">
+        <seg>&lt;k0&gt;Space&lt;/k0&gt;（スペースバー）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;k0&gt;Tab&lt;/k0&gt; (tabulator key)</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T020649Z" creationid="ayaki" creationdate="20230318T020649Z">
-        <seg>&lt;k0&gt;Tab&lt;/k0&gt; (タブキー)</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T112613Z" creationid="ayaki" creationdate="20230318T020649Z">
+        <seg>&lt;k0&gt;Tab&lt;/k0&gt;（タブキー）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;k0&gt;↑&lt;/k0&gt; (up arrow key)</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T020827Z" creationid="ayaki" creationdate="20230318T020827Z">
-        <seg>&lt;k0&gt;↑&lt;/k0&gt; (上矢印キー)</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T112640Z" creationid="ayaki" creationdate="20230318T020827Z">
+        <seg>&lt;k0&gt;↑&lt;/k0&gt;（上矢印キー）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;k0&gt;↓&lt;/k0&gt; (down arrow key)</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T020842Z" creationid="ayaki" creationdate="20230318T020842Z">
-        <seg>&lt;k0&gt;↓&lt;/k0&gt; (下矢印キー)</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T112741Z" creationid="ayaki" creationdate="20230318T020842Z">
+        <seg>&lt;k0&gt;↓&lt;/k0&gt;（下矢印キー）</seg>
       </tuv>
     </tu>
     <tu>
@@ -145,8 +145,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Note:&lt;/s0&gt; Windows IME may interfere with the detection and functionality of CapsLock; see &lt;a1&gt;CapsLock and IME&lt;/a1&gt; for details.</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T020606Z" creationid="ayaki" creationdate="20230318T020606Z">
-        <seg>&lt;s0&gt;注:&lt;/s0&gt; Windows IME は、CapsLock の検出と機能に干渉する場合があります。詳細については、&lt;a1&gt;CapsLock と IME&lt;/a1&gt; を参照してください。</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T112813Z" creationid="ayaki" creationdate="20230318T020606Z">
+        <seg>&lt;s0&gt;注:&lt;/s0&gt; Windows IME は、CapsLock の検出と機能に干渉する場合があります。詳細については、&lt;a1&gt;CapsLockとIME&lt;/a1&gt; を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -169,8 +169,8 @@
       <tuv lang="en">
         <seg>Additionally, some special characters may need to be escaped or enclosed in braces, depending on the context.</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T015905Z" creationid="ayaki" creationdate="20230318T015905Z">
-        <seg>さらに、コンテキストによっては、一部の特殊文字をエスケープするか、中括弧で囲む必要がある場合があります。</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T112846Z" creationid="ayaki" creationdate="20230318T015905Z">
+        <seg>さらに、コンテキストによっては、一部の特殊文字をエスケープするか、中括弧で囲む必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -185,8 +185,8 @@
       <tuv lang="en">
         <seg>Although any single character can be used as a key name, its meaning (scan code or virtual keycode) depends on the current keyboard layout.</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T015903Z" creationid="ayaki" creationdate="20230318T015903Z">
-        <seg>任意の 1 文字をキー名として使用できますが、その意味 (スキャン コードまたは仮想キーコード) は現在のキーボード レイアウトによって異なります。</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T112943Z" creationid="ayaki" creationdate="20230318T015903Z">
+        <seg>任意の 1 文字をキー名として使用できますが、その意味（スキャン コードまたは仮想キーコード）は現在のキーボードレイアウトによって異なります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -225,24 +225,24 @@
       <tuv lang="en">
         <seg>Backspace</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T020721Z" creationid="ayaki" creationdate="20230318T020721Z">
-        <seg>バックスペース</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T112958Z" creationid="ayaki" creationdate="20230318T020721Z">
+        <seg>Backspace</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Backspace (or BS)</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T020717Z" creationid="ayaki" creationdate="20230318T020717Z">
-        <seg>バックスペース (または BS)</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T113036Z" creationid="ayaki" creationdate="20230318T020717Z">
+        <seg>Backspace（またはBS）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>CapsLock and IME</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T015533Z" creationid="ayaki" creationdate="20230318T015533Z">
-        <seg>CapsLock と IME</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T113051Z" creationid="ayaki" creationdate="20230318T015533Z">
+        <seg>CapsLockとIME</seg>
       </tuv>
     </tu>
     <tu>
@@ -281,16 +281,16 @@
       <tuv lang="en">
         <seg>Del</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T020739Z" creationid="ayaki" creationdate="20230318T020739Z">
-        <seg>削除</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T113114Z" creationid="ayaki" creationdate="20230318T020739Z">
+        <seg>Del</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Delete (or Del)</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T020732Z" creationid="ayaki" creationdate="20230318T020732Z">
-        <seg>削除 (または削除)</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T113151Z" creationid="ayaki" creationdate="20230318T020732Z">
+        <seg>Delete（またはDel）</seg>
       </tuv>
     </tu>
     <tu>
@@ -313,32 +313,32 @@
       <tuv lang="en">
         <seg>End</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T020805Z" creationid="ayaki" creationdate="20230318T020805Z">
-        <seg>エンド</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T113153Z" creationid="ayaki" creationdate="20230318T020805Z">
+        <seg>End</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Enter</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T020700Z" creationid="ayaki" creationdate="20230318T020657Z">
-        <seg>入力</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T113232Z" creationid="ayaki" creationdate="20230318T020657Z">
+        <seg>Enter</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Esc</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T020715Z" creationid="ayaki" creationdate="20230318T020715Z">
-        <seg>ESC</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T113417Z" creationid="ayaki" creationdate="20230318T020715Z">
+        <seg>Esc</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Escape (or Esc)</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T020712Z" creationid="ayaki" creationdate="20230318T020712Z">
-        <seg>エスケープ (または Esc)</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T113416Z" creationid="ayaki" creationdate="20230318T020712Z">
+        <seg>Escape（またはEsc）</seg>
       </tuv>
     </tu>
     <tu>
@@ -385,8 +385,8 @@
       <tuv lang="en">
         <seg>Home</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T020756Z" creationid="ayaki" creationdate="20230318T020756Z">
-        <seg>ホーム</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T113451Z" creationid="ayaki" creationdate="20230318T020756Z">
+        <seg>Home</seg>
       </tuv>
     </tu>
     <tu>
@@ -433,16 +433,16 @@
       <tuv lang="en">
         <seg>Ins</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T020749Z" creationid="ayaki" creationdate="20230318T020749Z">
-        <seg>挿入</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T113511Z" creationid="ayaki" creationdate="20230318T020749Z">
+        <seg>Ins</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert (or Ins)</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T020742Z" creationid="ayaki" creationdate="20230318T020742Z">
-        <seg>挿入 (または挿入)</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T113550Z" creationid="ayaki" creationdate="20230318T020742Z">
+        <seg>Insert（またはIns）</seg>
       </tuv>
     </tu>
     <tu>
@@ -465,8 +465,8 @@
       <tuv lang="en">
         <seg>LButton</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T015601Z" creationid="ayaki" creationdate="20230318T015601Z">
-        <seg>Lボタン</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T113553Z" creationid="ayaki" creationdate="20230318T015601Z">
+        <seg>LButton</seg>
       </tuv>
     </tu>
     <tu>
@@ -481,16 +481,16 @@
       <tuv lang="en">
         <seg>MButton</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T015629Z" creationid="ayaki" creationdate="20230318T015629Z">
-        <seg>M ボタン</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T113614Z" creationid="ayaki" creationdate="20230318T015629Z">
+        <seg>MButton</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Middle or wheel mouse button</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T015631Z" creationid="ayaki" creationdate="20230318T015631Z">
-        <seg>中ボタンまたはホイール マウス ボタン</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T113657Z" creationid="ayaki" creationdate="20230318T015631Z">
+        <seg>中ボタンまたはホイールボタン</seg>
       </tuv>
     </tu>
     <tu>
@@ -553,16 +553,16 @@
       <tuv lang="en">
         <seg>PgUp</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T020813Z" creationid="ayaki" creationdate="20230318T020813Z">
-        <seg>ページアップ</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T113700Z" creationid="ayaki" creationdate="20230318T020813Z">
+        <seg>PgUp</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>RButton</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T015618Z" creationid="ayaki" creationdate="20230318T015618Z">
-        <seg>Rボタン</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T113612Z" creationid="ayaki" creationdate="20230318T015618Z">
+        <seg>RButton</seg>
       </tuv>
     </tu>
     <tu>
@@ -585,16 +585,16 @@
       <tuv lang="en">
         <seg>Return</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T020708Z" creationid="ayaki" creationdate="20230318T020708Z">
-        <seg>リターン</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T115818Z" creationid="ayaki" creationdate="20230318T020708Z">
+        <seg>Return</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Space</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T020620Z" creationid="ayaki" creationdate="20230318T020620Z">
-        <seg>スペース</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T113719Z" creationid="ayaki" creationdate="20230318T020620Z">
+        <seg>Space</seg>
       </tuv>
     </tu>
     <tu>
@@ -609,8 +609,8 @@
       <tuv lang="en">
         <seg>Tab</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T020647Z" creationid="ayaki" creationdate="20230318T020647Z">
-        <seg>タブ</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T113748Z" creationid="ayaki" creationdate="20230318T020647Z">
+        <seg>Tab</seg>
       </tuv>
     </tu>
     <tu>
@@ -649,8 +649,8 @@
       <tuv lang="en">
         <seg>These can be &lt;a0&gt;used as hotkeys&lt;/a0&gt; with some (but not all) mice which have a second wheel or support tilting the wheel to either side.</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T015717Z" creationid="ayaki" creationdate="20230318T015717Z">
-        <seg>これらは &lt;a0&gt;ホットキーとして使用&lt;/a0&gt;できます (すべてではない) 一部のマウスには、2 番目のホイールまたはホイールを左右に傾けることができます。</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T113945Z" creationid="ayaki" creationdate="20230318T015717Z">
+        <seg>2つめのホイールがあったり、ホイールを左右に傾けることができたりするマウスで&lt;a0&gt;ホットキーとして使用&lt;/a0&gt;できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -681,16 +681,16 @@
       <tuv lang="en">
         <seg>Turn the wheel downward (toward you).</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T015701Z" creationid="ayaki" creationdate="20230318T015701Z">
-        <seg>ハンドルを下（手前）に回します。</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T114011Z" creationid="ayaki" creationdate="20230318T015701Z">
+        <seg>ホイールを下（手前）に回します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Turn the wheel upward (away from you).</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T015704Z" creationid="ayaki" creationdate="20230318T015704Z">
-        <seg>ハンドルを上に (自分から離れる方向に) 回します。</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T114045Z" creationid="ayaki" creationdate="20230318T015704Z">
+        <seg>ホイールを上（自分から離れる方向）に回します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -721,56 +721,56 @@
       <tuv lang="en">
         <seg>Wheel</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T015432Z" creationid="ayaki" creationdate="20230318T015432Z">
-        <seg>車輪</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T114051Z" creationid="ayaki" creationdate="20230318T015432Z">
+        <seg>ホイール</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>WheelDown</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T015659Z" creationid="ayaki" creationdate="20230318T015659Z">
-        <seg>ホイールダウン</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T114104Z" creationid="ayaki" creationdate="20230318T015659Z">
+        <seg>WheelDown</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>WheelLeft</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T015706Z" creationid="ayaki" creationdate="20230318T015706Z">
-        <seg>ホイール左</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T114109Z" creationid="ayaki" creationdate="20230318T015706Z">
+        <seg>WheelLeft</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>WheelRight</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T015707Z" creationid="ayaki" creationdate="20230318T015707Z">
-        <seg>ホイール右</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T114114Z" creationid="ayaki" creationdate="20230318T015707Z">
+        <seg>WheelRight</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>WheelUp</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T015702Z" creationid="ayaki" creationdate="20230318T015702Z">
-        <seg>ホイールアップ</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T114118Z" creationid="ayaki" creationdate="20230318T015702Z">
+        <seg>WheelUp</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>While &lt;k1&gt;Ctrl&lt;/k1&gt; is held down, &lt;k2&gt;NumLock&lt;/k2&gt; produces the key code of &lt;c3&gt;Pause&lt;/c3&gt;, so use &lt;c4&gt;^Pause&lt;/c4&gt; in hotkeys instead of &lt;c5&gt;^NumLock&lt;/c5&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Ragnar-F" changedate="20230326T123201Z" creationid="ayaki" creationdate="20230318T021415Z">
-        <seg>&lt;k1&gt;Ctrl&lt;/k1&gt; が押されている間、&lt;k2&gt;NumLock&lt;/k2&gt; は &lt;c3&gt;Pause&lt;/c3&gt;のキー コードを生成するため、代わりにホットキーで &lt;c4&gt;^Pause&lt;/c4&gt; を使用します。 &lt;c5&gt;^NumLock&lt;/c5&gt;.</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T115543Z" creationid="ayaki" creationdate="20230318T021415Z">
+        <seg>&lt;k1&gt;Ctrl&lt;/k1&gt; が押されている間、&lt;k2&gt;NumLock&lt;/k2&gt; は &lt;c3&gt;Pause&lt;/c3&gt;のキーコードを生成するため、ホットキーには&lt;c5&gt;^NumLock&lt;/c5&gt;の代わりに&lt;c4&gt;^Pause&lt;/c4&gt;を使う。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>While &lt;k1&gt;Ctrl&lt;/k1&gt; is held down, &lt;k2&gt;ScrollLock&lt;/k2&gt; produces the key code of &lt;c3&gt;CtrlBreak&lt;/c3&gt;, but can be differentiated from &lt;k4&gt;Pause&lt;/k4&gt; by scan code.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Ragnar-F" changedate="20230326T112209Z" creationid="ayaki" creationdate="20230318T020730Z">
-        <seg>&lt;k1&gt;Ctrl&lt;/k1&gt; が押されている間、&lt;k2&gt;ScrollLock&lt;/k2&gt; は &lt;c3&gt;CtrlBreak&lt;/c3&gt;のキー コードを生成しますが、スキャンによって &lt;k4&gt;Pause&lt;/k4&gt; と区別することができますコード。</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T120036Z" creationid="ayaki" creationdate="20230318T020730Z">
+        <seg>&lt;k1&gt;Ctrl&lt;/k1&gt;が押されている間、&lt;k2&gt;ScrollLock&lt;/k2&gt; は &lt;c3&gt;CtrlBreak&lt;/c3&gt;のキーコードを生成しますが、スキャンによって &lt;k4&gt;Pause&lt;/k4&gt; と区別することができますコード。</seg>
       </tuv>
     </tu>
     <tu>
