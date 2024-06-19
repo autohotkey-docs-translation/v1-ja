@@ -769,8 +769,8 @@
       <tuv lang="en">
         <seg>While &lt;k1&gt;Ctrl&lt;/k1&gt; is held down, &lt;k2&gt;ScrollLock&lt;/k2&gt; produces the key code of &lt;c3&gt;CtrlBreak&lt;/c3&gt;, but can be differentiated from &lt;k4&gt;Pause&lt;/k4&gt; by scan code.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T120036Z" creationid="ayaki" creationdate="20230318T020730Z">
-        <seg>&lt;k1&gt;Ctrl&lt;/k1&gt;が押されている間、&lt;k2&gt;ScrollLock&lt;/k2&gt; は &lt;c3&gt;CtrlBreak&lt;/c3&gt;のキーコードを生成しますが、スキャンによって &lt;k4&gt;Pause&lt;/k4&gt; と区別することができますコード。</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T121618Z" creationid="ayaki" creationdate="20230318T020730Z">
+        <seg>&lt;k1&gt;Ctrl&lt;/k1&gt;が押されている間、&lt;k2&gt;ScrollLock&lt;/k2&gt; は &lt;c3&gt;CtrlBreak&lt;/c3&gt;のキーコードを生成しますが、スキャンコードによって&lt;k4&gt;Pause&lt;/k4&gt;と区別することができます。</seg>
       </tuv>
     </tu>
     <tu>
