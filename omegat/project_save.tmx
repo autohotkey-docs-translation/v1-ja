@@ -529,8 +529,8 @@
       <tuv lang="en">
         <seg>Name</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T015554Z" creationid="ayaki" creationdate="20230318T015554Z">
-        <seg>名前</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240621T065414Z" creationid="ayaki" creationdate="20230318T015554Z">
+        <seg>Name</seg>
       </tuv>
     </tu>
     <tu>
@@ -1036,6 +1036,127 @@
       </tuv>
       <tuv lang="ja" changeid="Ragnar-F" changedate="20230306T134138Z" creationid="Ragnar-F" creationdate="20230306T134138Z">
         <seg>Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">docs/KeyList.htm</prop>
+      <prop type="prev">Advanced Buttons</prop>
+      <prop type="next">Descr</prop>
+      <tuv lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240621T065429Z" creationid="Ragnar-F" creationdate="20240621T065429Z">
+        <seg>名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">docs/KeyList.htm</prop>
+      <prop type="prev">Cursor Control Keys</prop>
+      <prop type="next">Descr</prop>
+      <tuv lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240621T065450Z" creationid="Ragnar-F" creationdate="20240621T065450Z">
+        <seg>名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">docs/KeyList.htm</prop>
+      <prop type="prev">Function Keys</prop>
+      <prop type="next">Descr</prop>
+      <tuv lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240621T065500Z" creationid="Ragnar-F" creationdate="20240621T065500Z">
+        <seg>名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">docs/KeyList.htm</prop>
+      <prop type="prev">General Buttons</prop>
+      <prop type="next">Descr</prop>
+      <tuv lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240621T065422Z" creationid="Ragnar-F" creationdate="20240621T065422Z">
+        <seg>名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">docs/KeyList.htm</prop>
+      <prop type="prev">General Keys</prop>
+      <prop type="next">Descr</prop>
+      <tuv lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240621T065444Z" creationid="Ragnar-F" creationdate="20240621T065444Z">
+        <seg>名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">docs/KeyList.htm</prop>
+      <prop type="prev">If &lt;k1&gt;NumLock&lt;/k1&gt; is OFF but &lt;k2&gt;Shift&lt;/k2&gt; is pressed, the system temporarily releases &lt;k3&gt;Shift&lt;/k3&gt; and acts as though &lt;k4&gt;NumLock&lt;/k4&gt; is ON.</prop>
+      <prop type="next">Descr</prop>
+      <tuv lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240621T065454Z" creationid="Ragnar-F" creationdate="20240621T065454Z">
+        <seg>名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">docs/KeyList.htm</prop>
+      <prop type="prev">Modifier Keys</prop>
+      <prop type="next">Descr</prop>
+      <tuv lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240621T065506Z" creationid="Ragnar-F" creationdate="20240621T065506Z">
+        <seg>名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">docs/KeyList.htm</prop>
+      <prop type="prev">Other Keys</prop>
+      <prop type="next">Descr</prop>
+      <tuv lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240621T065518Z" creationid="Ragnar-F" creationdate="20240621T065518Z">
+        <seg>名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">docs/KeyList.htm</prop>
+      <prop type="prev">This table shows the default function of each key on most versions of Windows.</prop>
+      <prop type="next">Descr</prop>
+      <tuv lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240621T065512Z" creationid="Ragnar-F" creationdate="20240621T065512Z">
+        <seg>名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">docs/KeyList.htm</prop>
+      <prop type="prev">Wheel</prop>
+      <prop type="next">Descr</prop>
+      <tuv lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240621T065437Z" creationid="Ragnar-F" creationdate="20240621T065437Z">
+        <seg>名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">docs/lib/index.htm</prop>
+      <prop type="prev">&lt;a0&gt;E&lt;/a0&gt;,   &lt;a1&gt;I&lt;/a1&gt;,   &lt;a2&gt;M&lt;/a2&gt;,   &lt;a3&gt;S&lt;/a3&gt;,   &lt;a4&gt;W&lt;/a4&gt;,   &lt;a5&gt;#&lt;/a5&gt;</prop>
+      <prop type="next">Descr</prop>
+      <tuv lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240621T065542Z" creationid="Ragnar-F" creationdate="20240621T065542Z">
+        <seg>名前</seg>
       </tuv>
     </tu>
   </body>
