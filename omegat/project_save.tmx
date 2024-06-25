@@ -137,16 +137,16 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Deprecated:&lt;/s0&gt; Use the synonym &lt;c1&gt;Enter&lt;/c1&gt; instead to reduce ambiguity.</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T020710Z" creationid="ayaki" creationdate="20230318T020710Z">
-        <seg>&lt;s0&gt;非推奨:&lt;/s0&gt; あいまいさを減らすために、代わりに同義語の &lt;c1&gt;Enter&lt;/c1&gt; を使用してください。</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240625T110748Z" creationid="ayaki" creationdate="20230318T020710Z">
+        <seg>&lt;s0&gt;非推奨：&lt;/s0&gt;あいまいさを減らすために、代わりに同義語の &lt;c1&gt;Enter&lt;/c1&gt; を使用してください。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;s0&gt;Note:&lt;/s0&gt; Windows IME may interfere with the detection and functionality of CapsLock; see &lt;a1&gt;CapsLock and IME&lt;/a1&gt; for details.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Ragnar-F" changedate="20240619T112813Z" creationid="ayaki" creationdate="20230318T020606Z">
-        <seg>&lt;s0&gt;注:&lt;/s0&gt; Windows IME は、CapsLock の検出と機能に干渉する場合があります。詳細については、&lt;a1&gt;CapsLockとIME&lt;/a1&gt; を参照してください。</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240625T110738Z" creationid="ayaki" creationdate="20230318T020606Z">
+        <seg>&lt;s0&gt;注：&lt;/s0&gt;Windows IME は、CapsLock の検出と機能に干渉する場合があります。詳細については、&lt;a1&gt;CapsLockとIME&lt;/a1&gt; を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
