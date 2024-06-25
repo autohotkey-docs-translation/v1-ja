@@ -73,8 +73,8 @@
       <tuv lang="en">
         <seg>&lt;k0&gt;NumLock&lt;/k0&gt; (number lock key).</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T021413Z" creationid="ayaki" creationdate="20230318T021413Z">
-        <seg>&lt;k0&gt;NumLock&lt;/k0&gt; (ナンバーロックキー)。</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240625T093729Z" creationid="ayaki" creationdate="20230318T021413Z">
+        <seg>&lt;k0&gt;NumLock&lt;/k0&gt;（ナンバーロックキー）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -193,16 +193,16 @@
       <tuv lang="en">
         <seg>As a hotkey (&lt;c1&gt;Alt::&lt;/c1&gt;) it fires upon release unless it has the tilde prefix.</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T021532Z" creationid="ayaki" creationdate="20230318T021532Z">
-        <seg>ホットキー (&lt;c1&gt;Alt::&lt;/c1&gt;) として、チルダ プレフィックスがない限り、リリース時に起動します。</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240625T093757Z" creationid="ayaki" creationdate="20230318T021532Z">
+        <seg>ホットキー（&lt;c1&gt;Alt::&lt;/c1&gt;）として、チルダ プレフィックスがない限り、リリース時に起動します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>As a hotkey (&lt;c1&gt;Control::&lt;/c1&gt;) it fires upon release unless it has the tilde prefix.</seg>
       </tuv>
-      <tuv lang="ja" changeid="ayaki" changedate="20230318T021508Z" creationid="ayaki" creationdate="20230318T021508Z">
-        <seg>ホットキー (&lt;c1&gt;Control::&lt;/c1&gt;) として、チルダ プレフィックスがない限り、リリース時に起動します。</seg>
+      <tuv lang="ja" changeid="Ragnar-F" changedate="20240625T093734Z" creationid="ayaki" creationdate="20230318T021508Z">
+        <seg>ホットキー（&lt;c1&gt;Control::&lt;/c1&gt;）として、チルダ プレフィックスがない限り、リリース時に起動します。</seg>
       </tuv>
     </tu>
     <tu>
